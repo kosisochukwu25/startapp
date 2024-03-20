@@ -10,8 +10,7 @@ export default function SignUp() {
                 <Input type='email' name='email'  userid='email' place='your email address'/>
                 <Input type='password' name='pwd' userid='pwd' place='your password'/>
                 <Button status='SignUp'/>
-                
-                </ul>
+            </ul>
             
               
             
