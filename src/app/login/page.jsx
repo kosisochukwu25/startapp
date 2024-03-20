@@ -6,13 +6,11 @@ export default function Login() {
     <section className='m-auto w-1/2'>
         <form>
             <ul>
-                <Input type='text' userid='user' place='username'/>
-                <Input type='email' userid='email' place='email '/>
-                 <Button status='Login'/> 
+                <Input type='text' userid='user' place='your username'/>
+                <Input type='password' userid='pwd' place='your password '/>
+                <Button status='Login'/> 
             </ul>
                 
-                
-            
         </form>
     </section>
   )

@@ -3,7 +3,7 @@ import Button from '../components/Button'
 import Input from '../components/Input'
 export default function SignUp() {
   return (
-    <div className='m-auto w-1/2'>
+    <div className='m-auto w-[50%]'>
         <form>
             <ul>
                 <Input type='text' name='user' userid='user' place='your username'/>
