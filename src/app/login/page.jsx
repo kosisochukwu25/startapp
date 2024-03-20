@@ -10,7 +10,7 @@ export default function Login() {
                 <Input type='email' userid='email' place='email '/>
             </ul>
                 
-                    <Button status='Login'/>
+                    <Button status='Login'/> 
             
         </form>
     </section>
