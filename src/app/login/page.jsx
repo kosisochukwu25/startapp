@@ -8,9 +8,10 @@ export default function Login() {
             <ul>
                 <Input type='text' userid='user' place='username'/>
                 <Input type='email' userid='email' place='email '/>
+                 <Button status='Login'/> 
             </ul>
                 
-                    <Button status='Login'/> 
+                
             
         </form>
     </section>
