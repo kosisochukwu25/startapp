@@ -9,9 +9,11 @@ export default function SignUp() {
                 <Input type='text' name='user' userid='user' place='your username'/>
                 <Input type='email' name='email'  userid='email' place='your email address'/>
                 <Input type='password' name='pwd' userid='pwd' place='your password'/>
-            </ul>
-            
                 <Button status='SignUp'/>
+                
+                </ul>
+            
+              
             
         </form>
     </div>
